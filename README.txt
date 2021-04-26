@@ -3,7 +3,7 @@
 pip install numpy
 pip install pandas
 pip install pandas_datareader
-run ticker_correlation from cmd or terminal
+run ticker_correlation.py from cmd or terminal
 
 Summary
 -Accepts user input of two stock tickers and fetches price data from Yahoo Finance into a dataframe.
